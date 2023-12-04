@@ -9,8 +9,8 @@ import ListGroup from "react-bootstrap/ListGroup";
 
 function App() {
   const [resultadoBusqueda, setresultadoBusqueda] = useState([]);
-  const [showInput, setShowInput] = useState(false);
-  const [data, setData] = useState([]);
+  // const [showInput, setShowInput] = useState(false);
+  // const [data, setData] = useState([]);
 
   useEffect(() => {
     setresultadoBusqueda(bddActual);

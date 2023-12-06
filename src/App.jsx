@@ -45,11 +45,11 @@ function App() {
 
   return (
     <>
-      <div style={{ margin: "20px" }}>
+      <div style={{ margin: "5px" }}>
         {" "}
         <h1>Consultor de precios</h1>
           <SearchBar onSearch={handleSearch} />
-        <div style={{ margin: "20px" }}>
+        <div style={{ margin: "5px" }}>
           {resultadoBusqueda?.map((articulo, index) => (
             <ListGroup key={index}>
               <ListGroup.Item

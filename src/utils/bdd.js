@@ -512,7 +512,7 @@ export const bddActual = [
 {nombre:"MTARJGTT7227",descripcion:"RELOJ ANALOG SUMERG 50MTS MALLA SILICONA",precioTarjeta:114400},
 {nombre:"MTARJGTI2215",descripcion:"RELOJ ANALOG SUMERG 50MTS MALLA SILICONA",precioTarjeta:115400},
 {nombre:"MTARJGTT7236",descripcion:"RELOJ ANALOG SUMERG 50MTS MALLA SILICONA",precioTarjeta:116800},
-{nombre:"MTARJTS65PRO",descripcion:"RELOJ SMART BLUETOOTH MALLA SILC",precioTarjeta:127600},
+{nombre:"MTARJTS65PRO",descripcion:"RELOJ SMART BLUETOOTH MALLA SILC",precioTarjeta:82800},
 {nombre:"MTARJTS67",descripcion:"RELOJ SMART BLUETOOTH 2MALLAS",precioTarjeta:127600},
 {nombre:"MTARJSMTGT3",descripcion:"RELOJ SMART BLUETOOTH 2MALLAS  SUMERGIBLE",precioTarjeta:166200},
 {nombre:"MTARJSMTGTM5",descripcion:"RELOJ SMART GPS BLUETOOTH MALLA SILC",precioTarjeta:215000},

@@ -22,7 +22,7 @@ export const bddActual = [{nombre:"PVHC",descripcion:"CAM.MOD.VARIOS",precioTarj
 {nombre:"JAG9304N001",descripcion:"ZAPA NGO DEPORTIVO C/TRENZAS",precioTarjeta:54800},
 {nombre:"NWHK172004",descripcion:"ZAPA SLIPSTREAM AZUL",precioTarjeta:86900},
 {nombre:"JAG9338N001",descripcion:"ZAPA NGO DEPORTIVO C/TRENZA",precioTarjeta:54800},
-{nombre:"TVHR09234212",descripcion:"REM MC BAS AMARILLO ORO ESC.RED.FORTALEZA",precioTarjeta:20500},
+{nombre:"TVHR09234212",descripcion:"REM MC BAS AMARILLO ORO ESC.RED.FORTALEZA",precioTarjeta:24500},
 {nombre:"BRVHR2740101",descripcion:"REM.BAS.CEL.ESC.RED.C/BORDADO",precioTarjeta:16400},
 {nombre:"AGAPT4028",descripcion:"PORTATERMO RIGIDO GRANDE",precioTarjeta:78400},
 {nombre:"AGHABOXER1",descripcion:"BOXER FANTASIA",precioTarjeta:11100},
